@@ -2,7 +2,6 @@
 echo.
 echo Genetic programming thing automated build script
 echo.
-@echo on
 
 cd geneticProgrammingToolingAbout
 mkdir bin
